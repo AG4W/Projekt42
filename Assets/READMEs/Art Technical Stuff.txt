@@ -1,0 +1,14 @@
+1 gridunit i spelet är 32x32px.
+
+Pixelart bör vara gjord i multipler på denna. (Tomma pixlar obv. ok, vill mest se samma form för att ge arten en cohesion)
+(så ett långt objekt som sträcker sig två gridunits ska vara i formen 32x64, osv).
+
+Spritesheets bör ha 4, 8 eller 16 frames.
+
+Använd https://cpetry.github.io/NormalMap-Online/ för att generera normalmaps.
+Ange ordentliga namn; t.ex
+
+candle.png
+candleNormal.png
+candleEmissive.png
+osv.
